@@ -35,7 +35,7 @@ public class Student {
 	public Double getFees() {
 		return fees;
 	}
-	public void setPercentage(Double Fees) {
+	public void setFees(Double Fees) {
 		this.fees = Fees;
 	}
 	
